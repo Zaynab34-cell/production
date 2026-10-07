@@ -1,0 +1,4 @@
+# Optional configuration for a Git-connected deployment.
+# This folder already contains the finished static site.
+[build]
+  publish = "."
